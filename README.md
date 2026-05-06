@@ -28,17 +28,17 @@ This repository is designed to demonstrate my ability to organize, format, and p
 ### 📝 Word Documents (Structured Reports)
 | Document | Formatting & Design Focus | Link |
 | :--- | :--- | :--- |
-| **Document 1** | Table integration, complex formula layout, and structured academic formatting. | [📄 View PDF](./RC-Circuit-Time-Constant-Lab.pdf) |
-| **Document 2** | Multi-level headings, formal cover page design, and precise image alignment. | [📄 View PDF](./Water-Level-Controller-Report.pdf) |
-| **Document 3** | Extensive table of contents, technical diagram integration, and clean, readable typography. | [📄 View PDF](./AI-Maze-Game-OOP-Report.pdf) |
+| **Document 1** | Table integration, complex formula layout, and structured academic formatting. | [📄 View PDF](./Document-1.pdf) |
+| **Document 2** | Multi-level headings, formal cover page design, and precise image alignment. | [📄 View PDF](./Document-2.pdf) |
+| **Document 3** | Extensive table of contents, technical diagram integration, and clean, readable typography. | [📄 View PDF](./Document-3.pdf) |
 
 ### 📽️ PowerPoint Presentations (Slide Decks)
 | Presentation | Formatting & Design Focus | Link |
 | :--- | :--- | :--- |
-| **Presentation 1** | Dark theme consistency, custom icon usage, and modern spatial layout. | [📺 View PDF](./Dark-Web-Presentation.pdf) |
-| **Presentation 2** | Technical diagram presentation, clean grid spacing, and corporate layout structure. | [📺 View PDF](./Maze-Race-OOP-Architecture.pdf) |
-| **Presentation 3** | Mathematical formula layout, step-by-step visual logic, and high-contrast text. | [📺 View PDF](./DE-Applications-Engineering.pdf) |
-| **Presentation 4** | Hardware photo integration, code snippet formatting, and clear visual flow. | [📺 View PDF](./Arduino-Water-Level-Controller.pdf) |
+| **Presentation 1** | Dark theme consistency, custom icon usage, and modern spatial layout. | [📺 View PDF](./Presentation-1.pdf) |
+| **Presentation 2** | Technical diagram presentation, clean grid spacing, and corporate layout structure. | [📺 View PDF](./Presentation-2.pdf) |
+| **Presentation 3** | Mathematical formula layout, step-by-step visual logic, and high-contrast text. | [📺 View PDF](./Presentation-3.pdf) |
+| **Presentation 4** | Hardware photo integration, code snippet formatting, and clear visual flow. | [📺 View PDF](./Presentation-4.pdf) |
 
 ---
 
