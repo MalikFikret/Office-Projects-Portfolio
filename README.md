@@ -1,7 +1,6 @@
 # 📊 Microsoft Office Professional Portfolio
 
-A curated collection of documents and presentations showcasing advanced proficiency in Microsoft Word and Microsoft PowerPoint.
-
+A professional portfolio highlighting advanced layout design, structural formatting, and high-quality visual communication standards across Microsoft Word and PowerPoint.
 ### 🖼️ Visual Showcase
 
 Click on any preview to view the full document.
